@@ -4,7 +4,7 @@ A modern Data Warehouse using SQL Server, including ETL processes, data modeling
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
 Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-# Datawarehouse - Medallion Architecture
+# Medallion Architecture
 
 A data warehouse project built on **SQL Server** using the **medallion architecture** (Bronze → Silver → Gold) to transform raw source data into business-ready analytics for Nedbank.
 
