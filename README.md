@@ -49,6 +49,10 @@ flowchart LR
 
 ## Layer Details
 
+**Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+**Silver Layer**: This includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+**Gold Layer**: This houses business-ready data modeled into a star schema required for reporting and analytics.
+
 ### Sources
 | Property | Value |
 |----------|-------|
